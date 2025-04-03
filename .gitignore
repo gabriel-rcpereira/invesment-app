@@ -52,3 +52,4 @@ dist/
 *.bak
 *.swp
 *.swo
+.hypothesis/
